@@ -1,5 +1,6 @@
 # No Code Style Guide
 
+
 All no code programs are the same, regardless of use case, any code you write is a liability.
 
 ## File Extensions
